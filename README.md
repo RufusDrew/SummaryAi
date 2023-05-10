@@ -42,8 +42,11 @@ Please adhere to this project's `code of conduct`.
 ## Acknowledgements
 
  - [ReactJs](https://react.dev/)
+  - [Article Extractor and Summarizer(API) RapidAPI](https://rapidapi.com/restyler/api/article-extractor-and-summarizer?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel)
  - [Tailwind CSS](https://tailwindcss.com/)
  - [javaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+
 
 
 ## Feedback
