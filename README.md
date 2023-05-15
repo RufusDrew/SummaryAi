@@ -15,7 +15,9 @@ Install my-project with npm
     
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
+To run this project, you will need to add the following environment variables and api key to your .env file
+
+Article Extractor and Summarizer (subscribe it and then using api key)- https://rapidapi.com/restyler/api/article-extractor-and-summarizer?utm_source=youtube.com%2FJavaScriptMastery&utm_medium=referral&utm_campaign=DevRel
 
 `VITE_RAPID_API_ARTICLE_KEY`
 
